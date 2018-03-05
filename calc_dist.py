@@ -30,8 +30,6 @@ for x in long_lat:
 # Haversines
 for x in cities:
 	for y in cities:
-		if x == y:
-			continue
 		dist = haversines(long_lat[x][0], long_lat[y][0], long_lat[x][1], long_lat[y][1])
 		print(x, y, dist, file=fout)
 fout.close()

@@ -1,3 +1,4 @@
+Albany Albany 0.0
 Albany Auburn 376.17345981088624
 Albany Boston 424.87921979710427
 Albany Brunswick 579.8784588112421
@@ -43,6 +44,7 @@ Albany Vancouver_BC 3665.9573478372145
 Albany Vancouver_WA 3741.8153973808617
 Albany Washington_DC 796.9449481080179
 Auburn Albany 376.17345981088624
+Auburn Auburn 0.0
 Auburn Boston 454.8089036573094
 Auburn Brunswick 325.861879089342
 Auburn Buffalo 188.3834255489204
@@ -88,6 +90,7 @@ Auburn Vancouver_WA 3631.6907541842584
 Auburn Washington_DC 449.25129805060755
 Boston Albany 424.87921979710427
 Boston Auburn 454.8089036573094
+Boston Boston 0.0
 Boston Brunswick 352.9301758955905
 Boston Buffalo 642.2249204986678
 Boston Charlotte 1159.6186436473465
@@ -133,6 +136,7 @@ Boston Washington_DC 633.6702880092251
 Brunswick Albany 579.8784588112421
 Brunswick Auburn 325.861879089342
 Brunswick Boston 352.9301758955905
+Brunswick Brunswick 0.0
 Brunswick Buffalo 455.7571320739818
 Brunswick Charlotte 808.1384687943477
 Brunswick Chicago 1113.062513311487
@@ -178,6 +182,7 @@ Buffalo Albany 510.64581034967296
 Buffalo Auburn 188.3834255489204
 Buffalo Boston 642.2249204986678
 Buffalo Brunswick 455.7571320739818
+Buffalo Buffalo 0.0
 Buffalo Charlotte 868.3396394170578
 Buffalo Chicago 727.1503634052546
 Buffalo Cleveland 278.5600904976802
@@ -223,6 +228,7 @@ Charlotte Auburn 932.5375629277963
 Charlotte Boston 1159.6186436473465
 Charlotte Brunswick 808.1384687943477
 Charlotte Buffalo 868.3396394170578
+Charlotte Charlotte 0.0
 Charlotte Chicago 945.4846528008252
 Charlotte Cleveland 701.3668429669291
 Charlotte Emeryville 3683.9237078105252
@@ -268,6 +274,7 @@ Chicago Boston 1365.640866120244
 Chicago Brunswick 1113.062513311487
 Chicago Buffalo 727.1503634052546
 Chicago Charlotte 945.4846528008252
+Chicago Chicago 0.0
 Chicago Cleveland 494.55685679862654
 Chicago Emeryville 2971.694654097523
 Chicago Fort_Worth 1326.6622444723826
@@ -313,6 +320,7 @@ Cleveland Brunswick 618.5991967807253
 Cleveland Buffalo 278.5600904976802
 Cleveland Charlotte 701.3668429669291
 Cleveland Chicago 494.55685679862654
+Cleveland Cleveland 0.0
 Cleveland Emeryville 3466.2514788892336
 Cleveland Fort_Worth 1688.9258433939606
 Cleveland Galesburg 727.9640329096198
@@ -358,6 +366,7 @@ Emeryville Buffalo 3679.2503932974414
 Emeryville Charlotte 3683.9237078105252
 Emeryville Chicago 2971.694654097523
 Emeryville Cleveland 3466.2514788892336
+Emeryville Emeryville 0.0
 Emeryville Fort_Worth 2326.4051438518227
 Emeryville Galesburg 2748.9698818840125
 Emeryville Grand_Rapids 3127.374444377232
@@ -403,6 +412,7 @@ Fort_Worth Charlotte 1542.8134694407966
 Fort_Worth Chicago 1326.6622444723826
 Fort_Worth Cleveland 1688.9258433939606
 Fort_Worth Emeryville 2326.4051438518227
+Fort_Worth Fort_Worth 0.0
 Fort_Worth Galesburg 1100.6144019967542
 Fort_Worth Grand_Rapids 1525.6152283343376
 Fort_Worth Kansas_City 747.5963294410991
@@ -448,6 +458,7 @@ Galesburg Chicago 250.91223159262682
 Galesburg Cleveland 727.9640329096198
 Galesburg Emeryville 2748.9698818840125
 Galesburg Fort_Worth 1100.6144019967542
+Galesburg Galesburg 0.0
 Galesburg Grand_Rapids 448.7644890142497
 Galesburg Kansas_City 412.9389640759831
 Galesburg Los_Angeles 2562.95754602184
@@ -493,6 +504,7 @@ Grand_Rapids Cleveland 365.37812695251324
 Grand_Rapids Emeryville 3127.374444377232
 Grand_Rapids Fort_Worth 1525.6152283343376
 Grand_Rapids Galesburg 448.7644890142497
+Grand_Rapids Grand_Rapids 0.0
 Grand_Rapids Kansas_City 861.4006979983471
 Grand_Rapids Los_Angeles 2980.5791307797745
 Grand_Rapids Miami 1976.5124763339832
@@ -538,6 +550,7 @@ Kansas_City Emeryville 2407.022799821457
 Kansas_City Fort_Worth 747.5963294410991
 Kansas_City Galesburg 412.9389640759831
 Kansas_City Grand_Rapids 861.4006979983471
+Kansas_City Kansas_City 0.0
 Kansas_City Los_Angeles 2179.5197898488022
 Kansas_City Miami 2000.442660404453
 Kansas_City Montreal 1861.916814236803
@@ -583,6 +596,7 @@ Los_Angeles Fort_Worth 1943.2438846984078
 Los_Angeles Galesburg 2562.95754602184
 Los_Angeles Grand_Rapids 2980.5791307797745
 Los_Angeles Kansas_City 2179.5197898488022
+Los_Angeles Los_Angeles 0.0
 Los_Angeles Miami 3758.770130576179
 Los_Angeles Montreal 3966.989268613076
 Los_Angeles New_Haven 4021.88020557203
@@ -628,6 +642,7 @@ Miami Galesburg 1931.9771661385307
 Miami Grand_Rapids 1976.5124763339832
 Miami Kansas_City 2000.442660404453
 Miami Los_Angeles 3758.770130576179
+Miami Miami 0.0
 Miami Montreal 2273.1507906414636
 Miami New_Haven 1853.3858826421592
 Miami New_Orleans 1076.6140573357372
@@ -673,6 +688,7 @@ Montreal Grand_Rapids 1003.4435675983716
 Montreal Kansas_City 1861.916814236803
 Montreal Los_Angeles 3966.989268613076
 Montreal Miami 2273.1507906414636
+Montreal Montreal 0.0
 Montreal New_Haven 469.1338332099339
 Montreal New_Orleans 2248.353088857305
 Montreal New_York_City 533.6901287674139
@@ -718,6 +734,7 @@ New_Haven Kansas_City 1850.108676237381
 New_Haven Los_Angeles 4021.88020557203
 New_Haven Miami 1853.3858826421592
 New_Haven Montreal 469.1338332099339
+New_Haven New_Haven 0.0
 New_Haven New_Orleans 1992.337724295751
 New_Haven New_York_City 112.10282239343431
 New_Haven Newport_News 559.9114790192184
@@ -763,6 +780,7 @@ New_Orleans Los_Angeles 2686.6523121711366
 New_Orleans Miami 1076.6140573357372
 New_Orleans Montreal 2248.353088857305
 New_Orleans New_Haven 1992.337724295751
+New_Orleans New_Orleans 0.0
 New_Orleans New_York_City 1880.3047597102511
 New_Orleans Newport_News 1487.199844684581
 New_Orleans Norfolk 1489.7414764903297
@@ -808,6 +826,7 @@ New_York_City Miami 1757.9612595122333
 New_York_City Montreal 533.6901287674139
 New_York_City New_Haven 112.10282239343431
 New_York_City New_Orleans 1880.3047597102511
+New_York_City New_York_City 0.0
 New_York_City Newport_News 456.1436360614134
 New_York_City Norfolk 472.67774042025053
 New_York_City Oklahoma_City 2131.2749997302226
@@ -853,6 +872,7 @@ Newport_News Montreal 966.4559976579691
 Newport_News New_Haven 559.9114790192184
 Newport_News New_Orleans 1487.199844684581
 Newport_News New_York_City 456.1436360614134
+Newport_News Newport_News 0.0
 Newport_News Norfolk 31.094652281707905
 Newport_News Oklahoma_City 1891.0436267410207
 Newport_News Orlando 1054.9441299955681
@@ -898,6 +918,7 @@ Norfolk New_Haven 574.0643525071112
 Norfolk New_Orleans 1489.7414764903297
 Norfolk New_York_City 472.67774042025053
 Norfolk Newport_News 31.094652281707905
+Norfolk Norfolk 0.0
 Norfolk Oklahoma_City 1908.2682352362144
 Norfolk Orlando 1039.5027753745765
 Norfolk Philadelphia 358.4546588941
@@ -943,6 +964,7 @@ Oklahoma_City New_Orleans 927.5898498746883
 Oklahoma_City New_York_City 2131.2749997302226
 Oklahoma_City Newport_News 1891.0436267410207
 Oklahoma_City Norfolk 1908.2682352362144
+Oklahoma_City Oklahoma_City 0.0
 Oklahoma_City Orlando 1702.5480862700233
 Oklahoma_City Philadelphia 2022.5290894051175
 Oklahoma_City Pittsburgh 1629.2313917382266
@@ -988,6 +1010,7 @@ Orlando New_York_City 1511.0877510113216
 Orlando Newport_News 1054.9441299955681
 Orlando Norfolk 1039.5027753745765
 Orlando Oklahoma_City 1702.5480862700233
+Orlando Orlando 0.0
 Orlando Philadelphia 1390.8421805086841
 Orlando Pittsburgh 1329.4804052348543
 Orlando Pontiac 1577.2935405729402
@@ -1033,6 +1056,7 @@ Philadelphia Newport_News 338.32141299331687
 Philadelphia Norfolk 358.4546588941
 Philadelphia Oklahoma_City 2022.5290894051175
 Philadelphia Orlando 1390.8421805086841
+Philadelphia Philadelphia 0.0
 Philadelphia Pittsburgh 413.8092907044583
 Philadelphia Pontiac 741.2460968591434
 Philadelphia Port_Huron 691.4475138488493
@@ -1078,6 +1102,7 @@ Pittsburgh Norfolk 512.8728375695019
 Pittsburgh Oklahoma_City 1629.2313917382266
 Pittsburgh Orlando 1329.4804052348543
 Pittsburgh Philadelphia 413.8092907044583
+Pittsburgh Pittsburgh 0.0
 Pittsburgh Pontiac 367.3215227572307
 Pittsburgh Port_Huron 346.1120320175862
 Pittsburgh Portland 3475.7286279244695
@@ -1123,6 +1148,7 @@ Pontiac Oklahoma_City 1461.4322561571144
 Pontiac Orlando 1577.2935405729402
 Pontiac Philadelphia 741.2460968591434
 Pontiac Pittsburgh 367.3215227572307
+Pontiac Pontiac 0.0
 Pontiac Port_Huron 79.71856909578612
 Pontiac Portland 3130.582286328949
 Pontiac Quincy 1008.3486501318355
@@ -1168,6 +1194,7 @@ Port_Huron Orlando 1607.557970584063
 Port_Huron Philadelphia 691.4475138488493
 Port_Huron Pittsburgh 346.1120320175862
 Port_Huron Pontiac 79.71856909578612
+Port_Huron Port_Huron 0.0
 Port_Huron Portland 3184.986600632442
 Port_Huron Quincy 937.4413797530659
 Port_Huron Raleigh 863.0868504241184
@@ -1213,6 +1240,7 @@ Portland Philadelphia 3871.6321011060163
 Portland Pittsburgh 3475.7286279244695
 Portland Pontiac 3130.582286328949
 Portland Port_Huron 3184.986600632442
+Portland Portland 0.0
 Portland Quincy 4085.110520568554
 Portland Raleigh 3817.5221445209963
 Portland Richmond 3815.7092145835154
@@ -1258,6 +1286,7 @@ Quincy Pittsburgh 776.9069441960851
 Quincy Pontiac 1008.3486501318355
 Quincy Port_Huron 937.4413797530659
 Quincy Portland 4085.110520568554
+Quincy Quincy 0.0
 Quincy Raleigh 975.5430189718728
 Quincy Richmond 758.3737383399514
 Quincy Rutland 220.27148791197098
@@ -1303,6 +1332,7 @@ Raleigh Pontiac 861.3033390192084
 Raleigh Port_Huron 863.0868504241184
 Raleigh Portland 3817.5221445209963
 Raleigh Quincy 975.5430189718728
+Raleigh Raleigh 0.0
 Raleigh Richmond 223.25932552302987
 Raleigh Rutland 996.000485314139
 Raleigh Sacramento 3775.173875651783
@@ -1348,6 +1378,7 @@ Richmond Port_Huron 737.11579451055
 Richmond Portland 3815.7092145835154
 Richmond Quincy 758.3737383399514
 Richmond Raleigh 223.25932552302987
+Richmond Richmond 0.0
 Richmond Rutland 772.7865150094169
 Richmond Sacramento 3821.5225446096374
 Richmond San_Antonio 2144.889592865662
@@ -1393,6 +1424,7 @@ Rutland Portland 3879.7225674403835
 Rutland Quincy 220.27148791197098
 Rutland Raleigh 996.000485314139
 Rutland Richmond 772.7865150094169
+Rutland Rutland 0.0
 Rutland Sacramento 4046.0123974345506
 Rutland San_Antonio 2754.721890662464
 Rutland San_Diego 3996.6109168615135
@@ -1438,6 +1470,7 @@ Sacramento Quincy 4231.335321341318
 Sacramento Raleigh 3775.173875651783
 Sacramento Richmond 3821.5225446096374
 Sacramento Rutland 4046.0123974345506
+Sacramento Sacramento 0.0
 Sacramento San_Antonio 2343.1921529615697
 Sacramento San_Diego 760.5102703521641
 Sacramento Seattle 1005.7790615734165
@@ -1483,6 +1516,7 @@ San_Antonio Raleigh 1985.14148984288
 San_Antonio Richmond 2144.889592865662
 San_Antonio Rutland 2754.721890662464
 San_Antonio Sacramento 2343.1921529615697
+San_Antonio San_Antonio 0.0
 San_Antonio San_Diego 1812.6531467250927
 San_Antonio Seattle 2873.924637088176
 San_Antonio Spokane 2597.2884243359326
@@ -1528,6 +1562,7 @@ San_Diego Richmond 3625.2341819840053
 San_Diego Rutland 3996.6109168615135
 San_Diego Sacramento 760.5102703521641
 San_Diego San_Antonio 1812.6531467250927
+San_Diego San_Diego 0.0
 San_Diego Seattle 1712.047971133137
 San_Diego Spokane 1661.7401677959244
 San_Diego Springfield 4024.1482257829266
@@ -1573,6 +1608,7 @@ Seattle Rutland 3799.7980703517237
 Seattle Sacramento 1005.7790615734165
 Seattle San_Antonio 2873.924637088176
 Seattle San_Diego 1712.047971133137
+Seattle Seattle 0.0
 Seattle Spokane 367.605441952521
 Seattle Springfield 3899.9999598334543
 Seattle St_Albans 3732.45291758902
@@ -1618,6 +1654,7 @@ Spokane Sacramento 1061.578496712222
 Spokane San_Antonio 2597.2884243359326
 Spokane San_Diego 1661.7401677959244
 Spokane Seattle 367.605441952521
+Spokane Spokane 0.0
 Spokane Springfield 3535.458383953413
 Spokane St_Albans 3364.8800514383456
 Spokane St_Louis 2410.0180915065553
@@ -1663,6 +1700,7 @@ Springfield San_Antonio 2713.0332454191894
 Springfield San_Diego 4024.1482257829266
 Springfield Seattle 3899.9999598334543
 Springfield Spokane 3535.458383953413
+Springfield Springfield 0.0
 Springfield St_Albans 517.579425298997
 Springfield St_Louis 1538.069893038443
 Springfield Tampa 1808.967975920354
@@ -1708,6 +1746,7 @@ St_Albans San_Diego 3649.8356667251765
 St_Albans Seattle 3732.45291758902
 St_Albans Spokane 3364.8800514383456
 St_Albans Springfield 517.579425298997
+St_Albans St_Albans 0.0
 St_Albans St_Louis 1137.4815881756303
 St_Albans Tampa 1318.3151071089173
 St_Albans Toronto 559.6699791314326
@@ -1753,6 +1792,7 @@ St_Louis Seattle 2768.4904387182805
 St_Louis Spokane 2410.0180915065553
 St_Louis Springfield 1538.069893038443
 St_Louis St_Albans 1137.4815881756303
+St_Louis St_Louis 0.0
 St_Louis Tampa 1386.9225595022851
 St_Louis Toronto 1063.0044918332824
 St_Louis Vancouver_BC 2860.0044984303436
@@ -1798,6 +1838,7 @@ Tampa Spokane 3723.6282397864825
 Tampa Springfield 1808.967975920354
 Tampa St_Albans 1318.3151071089173
 Tampa St_Louis 1386.9225595022851
+Tampa Tampa 0.0
 Tampa Toronto 1767.5742689982594
 Tampa Vancouver_BC 4180.248862389365
 Tampa Vancouver_WA 4027.442251729839
@@ -1843,6 +1884,7 @@ Toronto Springfield 579.6247294942109
 Toronto St_Albans 559.6699791314326
 Toronto St_Louis 1063.0044918332824
 Toronto Tampa 1767.5742689982594
+Toronto Toronto 0.0
 Toronto Vancouver_BC 3358.9122712249855
 Toronto Vancouver_WA 3390.015369654173
 Toronto Washington_DC 562.9117147291727
@@ -1888,6 +1930,7 @@ Vancouver_BC St_Albans 3787.27929052164
 Vancouver_BC St_Louis 2860.0044984303436
 Vancouver_BC Tampa 4180.248862389365
 Vancouver_BC Toronto 3358.9122712249855
+Vancouver_BC Vancouver_BC 0.0
 Vancouver_BC Vancouver_WA 407.3601049212225
 Vancouver_BC Washington_DC 3791.1049710392244
 Vancouver_WA Albany 3741.8153973808617
@@ -1933,6 +1976,7 @@ Vancouver_WA St_Louis 2767.5237419786476
 Vancouver_WA Tampa 4027.442251729839
 Vancouver_WA Toronto 3390.015369654173
 Vancouver_WA Vancouver_BC 407.3601049212225
+Vancouver_WA Vancouver_WA 0.0
 Vancouver_WA Washington_DC 3775.8323656527405
 Washington_DC Albany 796.9449481080179
 Washington_DC Auburn 449.25129805060755
@@ -1978,3 +2022,4 @@ Washington_DC Tampa 1317.3752675613582
 Washington_DC Toronto 562.9117147291727
 Washington_DC Vancouver_BC 3791.1049710392244
 Washington_DC Vancouver_WA 3775.8323656527405
+Washington_DC Washington_DC 0.0
