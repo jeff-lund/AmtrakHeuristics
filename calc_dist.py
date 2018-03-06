@@ -1,3 +1,10 @@
+# !/usr/bin/python3
+# Copyright (c) 2018 Jeff Lund
+
+# Radius values
+KM = 6371 
+MI =  3959
+
 from math import *
 
 # opening files
@@ -11,9 +18,10 @@ cities = [x.rstrip() for x in buf]
 f_cities.close()
 
 def haversines(la1, la2, lo1, lo2):
-	p = pi/180
-	a = 0.5 - cos((la2 - la1) * p)/2 + cos(la1 * p) * cos(la2 * p) * (1 - cos((lo2 - lo1) * p)) / 2
-	return 12742 * asin(sqrt(a))
+    r = MI 
+    p = pi/180
+    a = 0.5 - cos((la2 - la1) * p)/2 + cos(la1 * p) * cos(la2 * p) * (1 - cos((lo2 - lo1) * p)) / 2
+    return 2 * r  * asin(sqrt(a))
 
 # writing long-lat list - long-lat
 buf = f_ll.readlines()
